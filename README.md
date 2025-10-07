@@ -2,7 +2,9 @@
 
 Automatically moves your OBS camera to screen areas with the least movement.
 
-![Example Demo](assets/example_cam.gif)
+<p align="center">
+  <img src="assets/example_cam.gif" alt="Example Demo" width="300">
+</p>
 
 ---
 
